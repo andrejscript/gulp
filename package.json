@@ -1,0 +1,24 @@
+{
+  "name": "gult-andreweb",
+  "version": "1.0.0",
+  "description": "gulp assembly",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejscript/gulp.git"
+  },
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejscript/gulp/issues"
+  },
+  "homepage": "https://github.com/andrejscript/gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "lazysizes": "^5.2.2"
+  }
+}
